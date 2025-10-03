@@ -1,3 +1,4 @@
+{
 "name": "currency-scraper-api",
   "version": "1.0.0",
   "description": "A professional API to fetch real-time currency prices from tgju.org using Node.js, Express, Axios, and Cheerio.",
